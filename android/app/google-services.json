@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654383154365",
+    "project_id": "task-onwords",
+    "storage_bucket": "task-onwords.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654383154365:android:5e12e569fe637e7996a3d4",
+        "android_client_info": {
+          "package_name": "com.example.task_onwords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654383154365-pdk53d451vcbt7n244m67fmdl71vlf19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz_WDrzzshnu1zhqbqx4HOGynbEF4gEM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654383154365-pdk53d451vcbt7n244m67fmdl71vlf19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
